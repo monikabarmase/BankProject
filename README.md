@@ -7,3 +7,10 @@ ATM Simulation Software - Simple Project using JAVA
 5. Success messages with date-time stamps are generated during login and logout.
 6. Multiple accounts can be stored within a single execution.
 7. Any wrong input generates a warning and ends the session.
+
+Technique-
+1. Created using Java Programming with methods and objects for inputting and extracting data.
+2. ArrayList is used for creating a database.
+3. Getters and Setters provide private access to data.
+4. Date and DateFormat classes generate time-date stamps.
+5. Math.random() function generates random Account numbers and PINs, with try-catch blocks for exception handling.
