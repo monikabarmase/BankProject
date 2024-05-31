@@ -1,4 +1,4 @@
-# BankProject
+# ATM-JAVA CODE
 ATM Simulation Software - Simple Project using JAVA
 1. User can create a new account or log into an existing account.
 2. Random Account number and PIN are automatically generated when creating a new account.
